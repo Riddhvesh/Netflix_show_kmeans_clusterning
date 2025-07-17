@@ -16,7 +16,6 @@ We apply **K-Means clustering** to discover patterns in the content and visualiz
   - One-hot encoded categorical columns
   - Scaled all features
 
----
 
 ## 🧠 Objective
 
