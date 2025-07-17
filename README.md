@@ -4,7 +4,6 @@
 This project uses unsupervised machine learning to group Netflix movies based on their **genre**, **duration**, **rating**, and **release year**.  
 We apply **K-Means clustering** to discover patterns in the content and visualize the clusters using **PCA**.
 
----
 
 ## 🚀 Overview
 
