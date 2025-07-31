@@ -1,4 +1,4 @@
-# Netflix_show_kmeans_clusterning
+ # Netflix_show_kmeans_clusterning
 #  Netflix Show Clustering using K-Means
 
 This project uses unsupervised machine learning to group Netflix movies based on their **genre**, **duration**, **rating**, and **release year**.  
@@ -49,9 +49,7 @@ To group similar Netflix movies without any labels using K-Means clustering and 
 
 ## 📈 Output
 
-Below is the PCA-based cluster visualization:
 
-![Netflix Show Clusters](path-to-your-image.png)
 
 Each point represents a movie, color-coded by its cluster.
 
